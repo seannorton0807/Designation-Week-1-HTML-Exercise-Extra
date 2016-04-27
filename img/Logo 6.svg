@@ -1,0 +1,25 @@
+<svg id="Logo_6" data-name="Logo 6" xmlns="http://www.w3.org/2000/svg" width="171" height="151" viewBox="0 0 171 151">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        fill-opacity: 0;
+        stroke: #fff;
+        stroke-linejoin: round;
+        stroke-width: 1px;
+        opacity: 0.1;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect id="Logo_PlaceHolder" data-name="Logo PlaceHolder" class="cls-1" x="0.5" y="0.5" width="170" height="150"/>
+  <g id="Logo">
+    <path id="iUI" class="cls-2" d="M1427.29,5853.27a4.5,4.5,0,1,0,4.44-4.2A4.314,4.314,0,0,0,1427.29,5853.27Zm49.8-38.13h-7.34v25.89c0,4.08-2.22,9.45-9.28,9.45s-9.27-5.37-9.27-9.45v-25.89h-7.35v26.12c0,9.97,7.18,16.21,16.62,16.21s16.62-6.24,16.62-16.21v-26.12Zm8.87,41.28h7.35v-41.28h-7.35v41.28Z" transform="translate(-1374.5 -5760.5)"/>
+  </g>
+</svg>
